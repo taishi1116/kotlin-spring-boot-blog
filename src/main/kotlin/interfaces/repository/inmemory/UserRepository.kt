@@ -1,4 +1,4 @@
 package interfaces.repository
 
-class userRepository {
-}
+import entity.User
+
